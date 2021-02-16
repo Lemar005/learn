@@ -20,6 +20,7 @@ public class Application {
 		
 		Product v = ProductFactory.getProduct("Potato", 10, "USD", 5, "kg");
 	    System.out.println(v);
+	    System.out.println(v);
 
 //		ArrayList<Product> list = ProductFactory.getFakeProducts(10);
 //
